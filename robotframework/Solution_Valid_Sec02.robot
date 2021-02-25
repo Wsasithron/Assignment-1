@@ -4,8 +4,8 @@ Library    SeleniumLibrary
 *** Variables ***
 ${SERVER}         localhost:7272
 ${BROWSER}        Chrome
-${REGISTER URL}    http://${SERVER}/Sec02/EventRegistration.html
-${SUCCESS URL}    http://${SERVER}/Sec02/Success.html
+${REGISTER URL}    http://${SERVER}/EventRegistration.html
+${SUCCESS URL}    http://${SERVER}/Success.html
 ${DELAY}          0
 ${VALID FIRSTNAME}    Somsri
 ${VALID LASTNAME}    Sodsai
